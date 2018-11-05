@@ -1,0 +1,50 @@
+ public RootType<TypeDefinition> BuildTypes(ModuleDefinition moduleDefinition)
+        {
+            try
+            {
+                RootType<TypeDefinition> root = new RootType<TypeDefinition>();
+                root.Structors = new List<Structor<TypeDefinition>>();
+                foreach (TypeDefinition type in moduleDefinition.Types)
+                {
+                    if (!type.IsPublic)
+                        continue;
+                    if (type.IsClass)
+                    {
+                        Structor structor = new Structor();
+                        structor.Functions = new List<Function>();
+                        structor.Proprietys = new List<Propriety>();
+                        structor.Name = type.FullName;
+                        root.AddType(new BaseType<TypeDefinition>(){ Name = type.FullName,Type = type });
+                        foreach (var methods in type.Methods)
+                        {
+
+                            Function function = new Function();
+                            function.FuncationParameters = new List<Propriety>();
+                            function.Proprietys = new List<Propriety>();
+
+                            function.Name = methods.IsConstructor ? "Constructor" : methods.Name;
+                            if (methods.HasParameters)
+                            {
+                                foreach (var parameter in methods.Parameters)
+                                    function.FuncationParameters.Add(new Propriety() { Name = parameter.Name, Type = parameter.GetType() });
+                            }
+                            if (methods.HasBody && methods.Body.HasVariables)
+                            {
+                                foreach (var variable in methods.Body.Variables)
+                                {
+                                    function.Proprietys.Add(new Propriety() { Name = variable.VariableType.Name, Type = variable.VariableType.GetType() });
+
+                                }
+                            }
+                            structor.Functions.Add(function);
+                        }
+                        root.Structors.Add(structor);
+
+                    }
+                }
+                return root;
+            }
+            catch (Exception ex)
+            {
+                return null;
+            }

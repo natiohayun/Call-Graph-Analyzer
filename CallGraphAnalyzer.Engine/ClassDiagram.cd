@@ -1,0 +1,112 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="CallGraphAnalyzer.Engine.DTOs.FieldDefinitionExtension">
+    <Position X="7.5" Y="1.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAgAAAA=</HashCode>
+      <FileName>DTOs\FieldDefinitionExtension.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="CallGraphAnalyzer.Engine.DTOs.GraphChild">
+    <Position X="11" Y="1.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAACAAAAAAAAAAAAAAAAQAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>DTOs\GraphChild.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="CallGraphAnalyzer.Engine.DTOs.GraphNode">
+    <Position X="5.75" Y="2.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAACAAAAAAAAAAAAAEAAQAAAAAIAAAAAAAAAAAAAA=</HashCode>
+      <FileName>DTOs\GraphNode.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="CallGraphAnalyzer.Engine.DTOs.MethodDefinitionExtension">
+    <Position X="9.25" Y="2.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAEABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAADAA=</HashCode>
+      <FileName>DTOs\MethodDefinitionExtension.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="CallGraphAnalyzer.Engine.DTOs.ParameterDefinitionExtension">
+    <Position X="11" Y="2.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAgAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>DTOs\ParameterDefinitionExtension.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="CallGraphAnalyzer.Engine.DTOs.TypeDefinitionExtension">
+    <Position X="5.75" Y="3.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>QAgAAAAAAAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>DTOs\TypeDefinitionExtension.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="CallGraphAnalyzer.Engine.DTOs.TypeReferenceExtension">
+    <Position X="7.5" Y="3.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAACAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>DTOs\TypeReferenceExtension.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="CallGraphAnalyzer.Engine.Workers.CBOAction" BaseTypeListCollapsed="true">
+    <Position X="5.75" Y="1.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAIAAAAAAAAAAAAAAAAAI=</HashCode>
+      <FileName>Workers\CBOAction.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" Collapsed="true" />
+  </Class>
+  <Class Name="CallGraphAnalyzer.Engine.Workers.FileActions" BaseTypeListCollapsed="true">
+    <Position X="9.25" Y="1.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAQAAAAAAAAAAAAAAAAAAAAAAAAAABAA=</HashCode>
+      <FileName>Workers\FileActions.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" Collapsed="true" />
+  </Class>
+  <Class Name="CallGraphAnalyzer.Engine.Workers.HtmlReport" BaseTypeListCollapsed="true">
+    <Position X="7.5" Y="2.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Workers\HtmlReport.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" Collapsed="true" />
+  </Class>
+  <Interface Name="CallGraphAnalyzer.Engine.Interfaces.IActions&lt;T, K&gt;">
+    <Position X="5.75" Y="5.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAIAAAAAAAAAAAAAAAAAI=</HashCode>
+      <FileName>Interfaces\IActions.cs</FileName>
+    </TypeIdentifier>
+  </Interface>
+  <Interface Name="CallGraphAnalyzer.Engine.Interfaces.IFileActions">
+    <Position X="7.5" Y="5.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAQAAAAAAAAAAAAAAAAAAAAAAAAAABAA=</HashCode>
+      <FileName>Interfaces\IFileActions.cs</FileName>
+    </TypeIdentifier>
+  </Interface>
+  <Interface Name="CallGraphAnalyzer.Engine.Interfaces.IReportBuilder">
+    <Position X="9.25" Y="5.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Interfaces\IReportBuilder.cs</FileName>
+    </TypeIdentifier>
+  </Interface>
+  <Enum Name="CallGraphAnalyzer.Engine.DTOs.DependencyType">
+    <Position X="5.75" Y="7" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAgAA=</HashCode>
+      <FileName>DTOs\Enums.cs</FileName>
+    </TypeIdentifier>
+  </Enum>
+  <Enum Name="CallGraphAnalyzer.Engine.DTOs.NodeType">
+    <Position X="7.5" Y="7" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAEAAAAAAAAAAAAAAAJAAAAAAAAAAAAAAACSAAgAAAA=</HashCode>
+      <FileName>DTOs\Enums.cs</FileName>
+    </TypeIdentifier>
+  </Enum>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>

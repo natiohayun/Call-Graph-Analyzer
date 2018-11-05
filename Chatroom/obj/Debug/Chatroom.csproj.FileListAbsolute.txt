@@ -1,0 +1,12 @@
+C:\Users\ohayo\Google Drive\MS.c\פרויקט\CallGraphAnalyzer\Chatroom\bin\Debug\Chatroom.exe.config
+C:\Users\ohayo\Google Drive\MS.c\פרויקט\CallGraphAnalyzer\Chatroom\bin\Debug\Chatroom.exe
+C:\Users\ohayo\Google Drive\MS.c\פרויקט\CallGraphAnalyzer\Chatroom\bin\Debug\Chatroom.pdb
+C:\Users\ohayo\Google Drive\MS.c\פרויקט\CallGraphAnalyzer\Chatroom\obj\Debug\Chatroom.exe
+C:\Users\ohayo\Google Drive\MS.c\פרויקט\CallGraphAnalyzer\Chatroom\obj\Debug\Chatroom.pdb
+C:\Users\ohayo\Google Drive\MS.c\פרויקט\CallGraphAnalyzer\Chatroom\obj\Debug\Chatroom.csprojResolveAssemblyReference.cache
+C:\Users\nohayun\Google Drive\MS.c\פרויקט\CallGraphAnalyzer\Chatroom\bin\Debug\Chatroom.exe.config
+C:\Users\nohayun\Google Drive\MS.c\פרויקט\CallGraphAnalyzer\Chatroom\bin\Debug\Chatroom.exe
+C:\Users\nohayun\Google Drive\MS.c\פרויקט\CallGraphAnalyzer\Chatroom\bin\Debug\Chatroom.pdb
+C:\Users\nohayun\Google Drive\MS.c\פרויקט\CallGraphAnalyzer\Chatroom\obj\Debug\Chatroom.csproj.CoreCompileInputs.cache
+C:\Users\nohayun\Google Drive\MS.c\פרויקט\CallGraphAnalyzer\Chatroom\obj\Debug\Chatroom.exe
+C:\Users\nohayun\Google Drive\MS.c\פרויקט\CallGraphAnalyzer\Chatroom\obj\Debug\Chatroom.pdb

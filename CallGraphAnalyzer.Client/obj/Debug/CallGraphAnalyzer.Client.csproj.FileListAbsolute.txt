@@ -1,0 +1,17 @@
+C:\Users\ohayo\Google Drive\MS.c\פרויקט\CallGraphAnalyzer\CallGraphAnalyzer.Client\obj\Debug\MainWindow.baml
+C:\Users\ohayo\Google Drive\MS.c\פרויקט\CallGraphAnalyzer\CallGraphAnalyzer.Client\obj\Debug\MainWindow.g.cs
+C:\Users\ohayo\Google Drive\MS.c\פרויקט\CallGraphAnalyzer\CallGraphAnalyzer.Client\obj\Debug\App.g.cs
+C:\Users\ohayo\Google Drive\MS.c\פרויקט\CallGraphAnalyzer\CallGraphAnalyzer.Client\obj\Debug\CallGraphAnalyzer.Client_MarkupCompile.cache
+C:\Users\ohayo\Google Drive\MS.c\פרויקט\CallGraphAnalyzer\CallGraphAnalyzer.Client\obj\Debug\CallGraphAnalyzer.Client.g.resources
+C:\Users\ohayo\Google Drive\MS.c\פרויקט\CallGraphAnalyzer\CallGraphAnalyzer.Client\obj\Debug\CallGraphAnalyzer.Client.Properties.Resources.resources
+C:\Users\ohayo\Google Drive\MS.c\פרויקט\CallGraphAnalyzer\CallGraphAnalyzer.Client\obj\Debug\CallGraphAnalyzer.Client.csproj.GenerateResource.Cache
+C:\Users\ohayo\Google Drive\MS.c\פרויקט\CallGraphAnalyzer\CallGraphAnalyzer.Client\obj\Debug\CallGraphAnalyzer.Client.csprojResolveAssemblyReference.cache
+C:\Users\nohayun\Google Drive\MS.c\פרויקט\CallGraphAnalyzer\CallGraphAnalyzer.Client\obj\Debug\CallGraphAnalyzer.Client.csprojAssemblyReference.cache
+C:\Users\nohayun\Google Drive\MS.c\פרויקט\CallGraphAnalyzer\CallGraphAnalyzer.Client\obj\Debug\MainWindow.baml
+C:\Users\nohayun\Google Drive\MS.c\פרויקט\CallGraphAnalyzer\CallGraphAnalyzer.Client\obj\Debug\MainWindow.g.cs
+C:\Users\nohayun\Google Drive\MS.c\פרויקט\CallGraphAnalyzer\CallGraphAnalyzer.Client\obj\Debug\App.g.cs
+C:\Users\nohayun\Google Drive\MS.c\פרויקט\CallGraphAnalyzer\CallGraphAnalyzer.Client\obj\Debug\CallGraphAnalyzer.Client_MarkupCompile.cache
+C:\Users\nohayun\Google Drive\MS.c\פרויקט\CallGraphAnalyzer\CallGraphAnalyzer.Client\obj\Debug\CallGraphAnalyzer.Client.g.resources
+C:\Users\nohayun\Google Drive\MS.c\פרויקט\CallGraphAnalyzer\CallGraphAnalyzer.Client\obj\Debug\CallGraphAnalyzer.Client.Properties.Resources.resources
+C:\Users\nohayun\Google Drive\MS.c\פרויקט\CallGraphAnalyzer\CallGraphAnalyzer.Client\obj\Debug\CallGraphAnalyzer.Client.csproj.GenerateResource.cache
+C:\Users\nohayun\Google Drive\MS.c\פרויקט\CallGraphAnalyzer\CallGraphAnalyzer.Client\obj\Debug\CallGraphAnalyzer.Client.csproj.CoreCompileInputs.cache

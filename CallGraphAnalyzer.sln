@@ -1,0 +1,55 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2013
+VisualStudioVersion = 12.0.40629.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CallGraphAnalyzer.Client", "CallGraphAnalyzer.Client\CallGraphAnalyzer.Client.csproj", "{48A9A195-2850-4871-867E-5D0B7C08435D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CallGraphAnalyzer.Engine", "CallGraphAnalyzer.Engine\CallGraphAnalyzer.Engine.csproj", "{28AC2799-5235-4792-BFBE-F176774CE9AA}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CallGraphAnalyzer.Console.Client", "CallGraphAnalyzer.Console.Client\CallGraphAnalyzer.Console.Client.csproj", "{2BCF8E2B-B7FD-47EC-90F9-F291BC02EDEA}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Exapmles", "Exapmles", "{8D350853-8267-47AF-900A-8A5108726268}"
+	ProjectSection(SolutionItems) = preProject
+		Examples\TestClass.dll = Examples\TestClass.dll
+	EndProjectSection
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Chatroom", "Chatroom\Chatroom.csproj", "{4A3561EC-6F3E-499F-9C2A-B8A514E99427}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = ".nuget", ".nuget", "{3AC9DCB7-2BFF-4B95-B4B9-D068C4A8C295}"
+	ProjectSection(SolutionItems) = preProject
+		.nuget\NuGet.Config = .nuget\NuGet.Config
+		.nuget\NuGet.exe = .nuget\NuGet.exe
+		.nuget\NuGet.targets = .nuget\NuGet.targets
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{48A9A195-2850-4871-867E-5D0B7C08435D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{48A9A195-2850-4871-867E-5D0B7C08435D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{48A9A195-2850-4871-867E-5D0B7C08435D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{48A9A195-2850-4871-867E-5D0B7C08435D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{28AC2799-5235-4792-BFBE-F176774CE9AA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{28AC2799-5235-4792-BFBE-F176774CE9AA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{28AC2799-5235-4792-BFBE-F176774CE9AA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{28AC2799-5235-4792-BFBE-F176774CE9AA}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2BCF8E2B-B7FD-47EC-90F9-F291BC02EDEA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2BCF8E2B-B7FD-47EC-90F9-F291BC02EDEA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2BCF8E2B-B7FD-47EC-90F9-F291BC02EDEA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2BCF8E2B-B7FD-47EC-90F9-F291BC02EDEA}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4A3561EC-6F3E-499F-9C2A-B8A514E99427}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4A3561EC-6F3E-499F-9C2A-B8A514E99427}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4A3561EC-6F3E-499F-9C2A-B8A514E99427}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4A3561EC-6F3E-499F-9C2A-B8A514E99427}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{4A3561EC-6F3E-499F-9C2A-B8A514E99427} = {8D350853-8267-47AF-900A-8A5108726268}
+	EndGlobalSection
+EndGlobal
